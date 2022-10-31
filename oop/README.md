@@ -7,3 +7,4 @@ A list of top frequently asked OOP interview questions and answers are given bel
 
 
 
+Q1. What is oop? 
