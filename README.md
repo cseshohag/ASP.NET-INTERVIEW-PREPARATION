@@ -3,10 +3,8 @@
 A list of top frequently asked ASP.NET interview questions and answers are given below.
 #
 
-# OOP
+- [OOP](./docs/oop)
+- [Database](./docs/db)
+- [Asp.net](./docs/.net)
+- [Scripting Language](./docs/sl)
 
-# Database
-
-# Asp.net 
-
-# Scripting Language
