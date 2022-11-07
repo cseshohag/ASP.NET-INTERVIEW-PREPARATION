@@ -3,7 +3,7 @@
 A list of top frequently asked Data Structure & Algorithm interview questions and answers are given below.
 #
 
-#Design Pattern
+# Design Pattern
 
 Q1. What is design pattern?
 Answer:
