@@ -8,6 +8,7 @@ A list of top frequently asked ASP.NET interview questions and answers are given
 - [Asp.net](./.net)
 - [Scripting Language](./sl)
 - [Data Structure & Algorithm](./dsa)
+- [Design Pattern](./dp)
 
 
 
